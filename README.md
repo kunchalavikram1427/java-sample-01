@@ -1,2 +1,8 @@
-# java-sample-01
-java-sample-01
+# Sample Java Programs
+Sample Java Programs
+
+### Simple java build job
+```
+javac HelloWorld.java
+java HelloWorld
+```
